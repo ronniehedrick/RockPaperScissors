@@ -2,7 +2,9 @@ var config = {
 	apiKey: "AIzaSyDeoAGKCvAPu7Akd0_Z2S6ZoG2e1qo3xg8",
     authDomain: "rpsmulti-d1909.firebaseapp.com",
     databaseURL: "https://rpsmulti-d1909.firebaseio.com",
-    storageBucket: "",
+    projectId: "rpsmulti-d1909",
+    storageBucket: "rpsmulti-d1909.appspot.com",
+    messagingSenderId: "690074755579"
   };
 firebase.initializeApp(config);
 
