@@ -1,7 +1,7 @@
 var config = {
-	apiKey: "AIzaSyBBbNHsLKR4k0eQRvXLKOdPhFhid4IlW9Q",
-    authDomain: "rps-multiplayer-ec3d5.firebaseapp.com",
-    databaseURL: "https://rps-multiplayer-ec3d5.firebaseio.com",
+	apiKey: "AIzaSyDeoAGKCvAPu7Akd0_Z2S6ZoG2e1qo3xg8",
+    authDomain: "rpsmulti-d1909.firebaseapp.com",
+    databaseURL: "https://rpsmulti-d1909.firebaseio.com",
     storageBucket: "",
   };
 firebase.initializeApp(config);
