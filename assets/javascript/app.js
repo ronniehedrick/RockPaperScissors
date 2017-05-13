@@ -4,7 +4,7 @@ var config = {
     databaseURL: "https://rpsmulti-d1909.firebaseio.com",
     projectId: "rpsmulti-d1909",
     storageBucket: "rpsmulti-d1909.appspot.com",
-    
+    messagingSenderId: "690074755579"
   };
 firebase.initializeApp(config);
 
