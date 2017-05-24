@@ -4,7 +4,6 @@ var config = {
     databaseURL: "https://rps-multiplayer-ec3d5.firebaseio.com",
     storageBucket: "",
   };
-
 firebase.initializeApp(config);
 
 var database = firebase.database();
