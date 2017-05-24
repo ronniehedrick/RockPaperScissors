@@ -4,13 +4,9 @@ var config = {
     databaseURL: "https://rps-multiplayer-ec3d5.firebaseio.com",
     storageBucket: "",
   };
+
 firebase.initializeApp(config);
 
- projectId: "rpsmulti-d1909",
-    storageBucket: "rpsmulti-d1909.appspot.com",
-    messagingSenderId: "690074755579"
-
-    
 var database = firebase.database();
 
 var turnNum=0;
